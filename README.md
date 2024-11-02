@@ -2,6 +2,7 @@
 # Welcome to BeeLive!
 
 Hi! Let's take care of our bees.
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/8368310a-e37c-4c5b-ade9-e673b85cdf6a">
 
 
 # Getting Started
